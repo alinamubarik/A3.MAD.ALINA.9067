@@ -91,8 +91,7 @@ Future Improvements
 - Add cloud storage support
 
 Scan qr :
-https://qrco.de/bgjkun
-<img width="200" height="200" alt="qr(3) png" src="https://github.com/user-attachments/assets/66f9cf32-aab5-4e0f-8e02-7c043e154683" />
+
 
 
 
