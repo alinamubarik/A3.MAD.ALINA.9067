@@ -90,6 +90,9 @@ Future Improvements
 - Improve UI with animations
 - Add cloud storage support
 
+Scan qr :
+https://qrco.de/bgjkun
+
 -GitHub Repository
 👉 https://github.com/ayzel9090/A3.MAD.ALINA.9067
 
