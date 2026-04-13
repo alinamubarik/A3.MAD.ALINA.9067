@@ -92,6 +92,7 @@ Future Improvements
 
 Scan qr :
 
+<img width="300" height="300" alt="qr(3)" src="https://github.com/user-attachments/assets/c23b1801-f562-43d8-8980-4f10897d39d5" />
 
 
 
