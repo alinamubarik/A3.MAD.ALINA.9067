@@ -90,9 +90,11 @@ Future Improvements
 - Improve UI with animations
 - Add cloud storage support
 
-Scan qr :
+Scan qr for e-commerce :
+<img width="173" height="191" alt="e-commerce" src="https://github.com/user-attachments/assets/4229e258-ed32-4775-8355-73cfef088188" />
 
-<img width="300" height="300" alt="qr(3)" src="https://github.com/user-attachments/assets/c23b1801-f562-43d8-8980-4f10897d39d5" />
+
+
 
 
 
